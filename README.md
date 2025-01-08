@@ -42,7 +42,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 </span>
 
-## Check out my Social Media
+<!-- ## Check out my Social Media -->
 
 <!-- <a href= "https://www.instagram.com/valenwerle/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
