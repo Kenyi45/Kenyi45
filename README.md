@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Systems Developer, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+Fullstack developer with over 4 years of experience in web, mobile, and ERP systems development. I have led payment gateway integrations, developed backend and frontend solutions, and managed IT infrastructure. Passionate about creating efficient, scalable, and user-centered products.
 - 🌱 I’m currently learning ...
   - React
   - Spring
